@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Algorithm to create Fibonacci sequence until 500/1.0.0": {
+        "runtime": {
+          "Algorithm to create Fibonacci sequence until 500.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algorithm to create Fibonacci sequence until 500/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
