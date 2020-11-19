@@ -1,0 +1,13 @@
+C:\Users\Felipe\Desktop\LoopStructures-Exercises-Csharp\Ex 1\bin\Debug\netcoreapp3.1\LoopStructures-Exercises-Csharp.exe
+C:\Users\Felipe\Desktop\LoopStructures-Exercises-Csharp\Ex 1\bin\Debug\netcoreapp3.1\LoopStructures-Exercises-Csharp.deps.json
+C:\Users\Felipe\Desktop\LoopStructures-Exercises-Csharp\Ex 1\bin\Debug\netcoreapp3.1\LoopStructures-Exercises-Csharp.runtimeconfig.json
+C:\Users\Felipe\Desktop\LoopStructures-Exercises-Csharp\Ex 1\bin\Debug\netcoreapp3.1\LoopStructures-Exercises-Csharp.runtimeconfig.dev.json
+C:\Users\Felipe\Desktop\LoopStructures-Exercises-Csharp\Ex 1\bin\Debug\netcoreapp3.1\LoopStructures-Exercises-Csharp.dll
+C:\Users\Felipe\Desktop\LoopStructures-Exercises-Csharp\Ex 1\bin\Debug\netcoreapp3.1\LoopStructures-Exercises-Csharp.pdb
+C:\Users\Felipe\Desktop\LoopStructures-Exercises-Csharp\Ex 1\obj\Debug\netcoreapp3.1\LoopStructures-Exercises-Csharp.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\LoopStructures-Exercises-Csharp\Ex 1\obj\Debug\netcoreapp3.1\LoopStructures-Exercises-Csharp.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\LoopStructures-Exercises-Csharp\Ex 1\obj\Debug\netcoreapp3.1\LoopStructures-Exercises-Csharp.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\LoopStructures-Exercises-Csharp\Ex 1\obj\Debug\netcoreapp3.1\LoopStructures-Exercises-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\LoopStructures-Exercises-Csharp\Ex 1\obj\Debug\netcoreapp3.1\LoopStructures-Exercises-Csharp.dll
+C:\Users\Felipe\Desktop\LoopStructures-Exercises-Csharp\Ex 1\obj\Debug\netcoreapp3.1\LoopStructures-Exercises-Csharp.pdb
+C:\Users\Felipe\Desktop\LoopStructures-Exercises-Csharp\Ex 1\obj\Debug\netcoreapp3.1\LoopStructures-Exercises-Csharp.genruntimeconfig.cache
