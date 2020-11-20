@@ -10,57 +10,52 @@ namespace Algorithm_to_verify_and_validate_user_info
             int idade;
             float salario;
             string estadocivil;
-            
-            do{
+
+            do
+            {
                 Console.WriteLine();
                 Console.WriteLine("Digite seu Nome: ");
                 nome = Console.ReadLine();
                 Console.WriteLine();
-                Console.WriteLine("------------------------"); 
-                Console.WriteLine("Defina um nome válido"); }
-                
-              while(nome == "");
-                
-                Console.WriteLine();
+            }
+            while (nome == "");
 
+            Console.WriteLine();
                 
-            do{
+
+            do
+            {
                 Console.WriteLine("Digite sua Idade: ");
                 idade = int.Parse(Console.ReadLine());
                 Console.WriteLine();
-                Console.WriteLine("------------------------"); 
-                Console.WriteLine("Defina uma idade válida"); }
-                
-                while(idade <= 0 || idade > 150);
-                
-                Console.WriteLine();
+            }
+            while (idade <= 0 || idade > 150);
 
-            
-            do{
+            Console.WriteLine();
+                
+
+            do
+            {
                 Console.WriteLine("Digite seu Salário ($): ");
                 salario = float.Parse(Console.ReadLine());
                 Console.WriteLine();
-                Console.WriteLine("------------------------"); 
-                Console.WriteLine("Defina um salário válido");
-                Console.WriteLine(); }
-                
-                while(salario == 0); 
-                
-                Console.WriteLine(); 
+            }
+            while (salario == 0);
 
-                
-            do{   
+            Console.WriteLine();
+
+
+            do
+            {
                 Console.WriteLine("Digite seu Estado Civil: s - Solteiro(a); c - Casado(a); v - Viuvo(a); d - Divorciado(a)");
                 estadocivil = (Console.ReadLine());
                 Console.WriteLine();
-                Console.WriteLine("-------------------------------"); 
-                Console.WriteLine("Defina um estado civil válido"); }
-                
-                while(estadocivil != "s" && estadocivil != "c" && estadocivil != "v" && estadocivil != "d");
-                
-                Console.WriteLine(); 
-                
-                
+            }
+            while (estadocivil != "s" && estadocivil != "c" && estadocivil != "v" && estadocivil != "d");
+
+            Console.WriteLine();
+               
+
             Console.WriteLine("-------------------------------");
             Console.WriteLine("Confirme seus dados");
             Console.WriteLine("Nome: " + nome);
@@ -69,27 +64,36 @@ namespace Algorithm_to_verify_and_validate_user_info
             Console.WriteLine("Estado Civil: " + estadocivil);
             Console.WriteLine("-------------------------------");
 
-            Console.WriteLine("Validação concluida"); 
+            Console.WriteLine("Validação concluida");
         }
     }
 }
-                
-                
-                                
 
-                 
 
-                  
-                                             
 
-                  
-                                  
 
                 
                 
-                    
-                    
-                    
-            
-            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
