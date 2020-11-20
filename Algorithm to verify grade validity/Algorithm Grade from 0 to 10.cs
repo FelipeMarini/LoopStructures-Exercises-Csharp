@@ -19,7 +19,7 @@ namespace LoopStructures_Exercises_Csharp  // System.Threading.Thread.Sleep(1000
                 if(nota < 0 || nota > 10) {
                 
                 Console.WriteLine();
-                Console.WriteLine("Número Inválido"); 
+                Console.WriteLine("Número Inválido, por favor digite novamente"); 
                 Console.WriteLine();
                 
                 }

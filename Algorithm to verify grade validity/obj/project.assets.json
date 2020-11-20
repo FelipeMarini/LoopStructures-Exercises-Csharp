@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Felipe\\Desktop\\LoopStructures-Exercises-Csharp\\Ex 1\\LoopStructures-Exercises-Csharp.csproj",
+      "projectUniqueName": "C:\\Users\\Felipe\\Desktop\\Senai\\C#\\LoopStructures-Exercises-Csharp\\Algorithm to verify grade validity\\LoopStructures-Exercises-Csharp.csproj",
       "projectName": "LoopStructures-Exercises-Csharp",
-      "projectPath": "C:\\Users\\Felipe\\Desktop\\LoopStructures-Exercises-Csharp\\Ex 1\\LoopStructures-Exercises-Csharp.csproj",
+      "projectPath": "C:\\Users\\Felipe\\Desktop\\Senai\\C#\\LoopStructures-Exercises-Csharp\\Algorithm to verify grade validity\\LoopStructures-Exercises-Csharp.csproj",
       "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Felipe\\Desktop\\LoopStructures-Exercises-Csharp\\Ex 1\\obj\\",
+      "outputPath": "C:\\Users\\Felipe\\Desktop\\Senai\\C#\\LoopStructures-Exercises-Csharp\\Algorithm to verify grade validity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config"
