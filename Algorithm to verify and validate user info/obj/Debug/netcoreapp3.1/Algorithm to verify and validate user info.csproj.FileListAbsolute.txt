@@ -11,3 +11,16 @@ C:\Users\Felipe\Desktop\LoopStructures-Exercises-Csharp\Algorithm to verify and 
 C:\Users\Felipe\Desktop\LoopStructures-Exercises-Csharp\Algorithm to verify and validate user info\obj\Debug\netcoreapp3.1\Algorithm to verify and validate user info.dll
 C:\Users\Felipe\Desktop\LoopStructures-Exercises-Csharp\Algorithm to verify and validate user info\obj\Debug\netcoreapp3.1\Algorithm to verify and validate user info.pdb
 C:\Users\Felipe\Desktop\LoopStructures-Exercises-Csharp\Algorithm to verify and validate user info\obj\Debug\netcoreapp3.1\Algorithm to verify and validate user info.genruntimeconfig.cache
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to verify and validate user info\bin\Debug\netcoreapp3.1\Algorithm to verify and validate user info.exe
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to verify and validate user info\bin\Debug\netcoreapp3.1\Algorithm to verify and validate user info.deps.json
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to verify and validate user info\bin\Debug\netcoreapp3.1\Algorithm to verify and validate user info.runtimeconfig.json
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to verify and validate user info\bin\Debug\netcoreapp3.1\Algorithm to verify and validate user info.runtimeconfig.dev.json
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to verify and validate user info\bin\Debug\netcoreapp3.1\Algorithm to verify and validate user info.dll
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to verify and validate user info\bin\Debug\netcoreapp3.1\Algorithm to verify and validate user info.pdb
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to verify and validate user info\obj\Debug\netcoreapp3.1\Algorithm to verify and validate user info.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to verify and validate user info\obj\Debug\netcoreapp3.1\Algorithm to verify and validate user info.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to verify and validate user info\obj\Debug\netcoreapp3.1\Algorithm to verify and validate user info.AssemblyInfo.cs
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to verify and validate user info\obj\Debug\netcoreapp3.1\Algorithm to verify and validate user info.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to verify and validate user info\obj\Debug\netcoreapp3.1\Algorithm to verify and validate user info.dll
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to verify and validate user info\obj\Debug\netcoreapp3.1\Algorithm to verify and validate user info.pdb
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to verify and validate user info\obj\Debug\netcoreapp3.1\Algorithm to verify and validate user info.genruntimeconfig.cache
