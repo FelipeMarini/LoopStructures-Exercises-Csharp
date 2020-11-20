@@ -24,3 +24,16 @@ C:\Users\Felipe\Desktop\Senai\C#\LoopStructures-Exercises-Csharp\Algorithm to cr
 C:\Users\Felipe\Desktop\Senai\C#\LoopStructures-Exercises-Csharp\Algorithm to create Fibonacci sequence\obj\Debug\netcoreapp3.1\Algorithm to create Fibonacci sequence until 500.dll
 C:\Users\Felipe\Desktop\Senai\C#\LoopStructures-Exercises-Csharp\Algorithm to create Fibonacci sequence\obj\Debug\netcoreapp3.1\Algorithm to create Fibonacci sequence until 500.pdb
 C:\Users\Felipe\Desktop\Senai\C#\LoopStructures-Exercises-Csharp\Algorithm to create Fibonacci sequence\obj\Debug\netcoreapp3.1\Algorithm to create Fibonacci sequence until 500.genruntimeconfig.cache
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to create Fibonacci sequence\bin\Debug\netcoreapp3.1\Algorithm to create Fibonacci sequence until 500.exe
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to create Fibonacci sequence\bin\Debug\netcoreapp3.1\Algorithm to create Fibonacci sequence until 500.deps.json
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to create Fibonacci sequence\bin\Debug\netcoreapp3.1\Algorithm to create Fibonacci sequence until 500.runtimeconfig.json
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to create Fibonacci sequence\bin\Debug\netcoreapp3.1\Algorithm to create Fibonacci sequence until 500.runtimeconfig.dev.json
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to create Fibonacci sequence\bin\Debug\netcoreapp3.1\Algorithm to create Fibonacci sequence until 500.dll
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to create Fibonacci sequence\bin\Debug\netcoreapp3.1\Algorithm to create Fibonacci sequence until 500.pdb
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to create Fibonacci sequence\obj\Debug\netcoreapp3.1\Algorithm to create Fibonacci sequence until 500.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to create Fibonacci sequence\obj\Debug\netcoreapp3.1\Algorithm to create Fibonacci sequence until 500.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to create Fibonacci sequence\obj\Debug\netcoreapp3.1\Algorithm to create Fibonacci sequence until 500.AssemblyInfo.cs
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to create Fibonacci sequence\obj\Debug\netcoreapp3.1\Algorithm to create Fibonacci sequence until 500.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to create Fibonacci sequence\obj\Debug\netcoreapp3.1\Algorithm to create Fibonacci sequence until 500.dll
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to create Fibonacci sequence\obj\Debug\netcoreapp3.1\Algorithm to create Fibonacci sequence until 500.pdb
+C:\Users\dev\Desktop\LoopStructures-Exercises-Csharp\Algorithm to create Fibonacci sequence\obj\Debug\netcoreapp3.1\Algorithm to create Fibonacci sequence until 500.genruntimeconfig.cache

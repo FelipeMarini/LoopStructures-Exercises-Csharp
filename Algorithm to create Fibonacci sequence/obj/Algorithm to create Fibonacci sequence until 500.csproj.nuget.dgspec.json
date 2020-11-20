@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Felipe\\Desktop\\Senai\\C#\\LoopStructures-Exercises-Csharp\\Algorithm to create Fibonacci sequence\\Algorithm to create Fibonacci sequence until 500.csproj": {}
+    "C:\\Users\\dev\\Desktop\\LoopStructures-Exercises-Csharp\\Algorithm to create Fibonacci sequence\\Algorithm to create Fibonacci sequence until 500.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Felipe\\Desktop\\Senai\\C#\\LoopStructures-Exercises-Csharp\\Algorithm to create Fibonacci sequence\\Algorithm to create Fibonacci sequence until 500.csproj": {
+    "C:\\Users\\dev\\Desktop\\LoopStructures-Exercises-Csharp\\Algorithm to create Fibonacci sequence\\Algorithm to create Fibonacci sequence until 500.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Felipe\\Desktop\\Senai\\C#\\LoopStructures-Exercises-Csharp\\Algorithm to create Fibonacci sequence\\Algorithm to create Fibonacci sequence until 500.csproj",
+        "projectUniqueName": "C:\\Users\\dev\\Desktop\\LoopStructures-Exercises-Csharp\\Algorithm to create Fibonacci sequence\\Algorithm to create Fibonacci sequence until 500.csproj",
         "projectName": "Algorithm to create Fibonacci sequence until 500",
-        "projectPath": "C:\\Users\\Felipe\\Desktop\\Senai\\C#\\LoopStructures-Exercises-Csharp\\Algorithm to create Fibonacci sequence\\Algorithm to create Fibonacci sequence until 500.csproj",
-        "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Felipe\\Desktop\\Senai\\C#\\LoopStructures-Exercises-Csharp\\Algorithm to create Fibonacci sequence\\obj\\",
+        "projectPath": "C:\\Users\\dev\\Desktop\\LoopStructures-Exercises-Csharp\\Algorithm to create Fibonacci sequence\\Algorithm to create Fibonacci sequence until 500.csproj",
+        "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dev\\Desktop\\LoopStructures-Exercises-Csharp\\Algorithm to create Fibonacci sequence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
