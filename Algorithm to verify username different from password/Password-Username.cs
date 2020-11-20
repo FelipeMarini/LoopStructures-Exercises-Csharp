@@ -11,7 +11,7 @@ namespace Algorithm_to_verify_username_different_from_password
 
             while(true) {
                 
-                Console.WriteLine("Digite seu nome de usuário:");
+                Console.WriteLine("Digite seu username:");
                 nome = Console.ReadLine();
 
                 Console.WriteLine("Digite seu senha:");
